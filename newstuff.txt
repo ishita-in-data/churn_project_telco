@@ -1,0 +1,3 @@
+for personal use, new stuff i learnt- 
+1. to get percentage after using group by- churn.groupby(['TechSupport', 'Contract'])['Churn'].value_counts(normalize=True)
+2. to split numeric values to bins for group by- pd.cut

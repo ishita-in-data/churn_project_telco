@@ -1,0 +1,27 @@
+Business Questions
+Is there a difference in churn patterns between contract types (month-to-month vs. long-term)?- relation to tech support? 
+What is the overall churn rate and how does it vary by customer segment?
+Which customer demographics or characteristics are most prone to churn?
+What's the revenue impact of customer churn?
+Do customers churn early or later in their lifecycle?
+
+
+Exploratory Data Analysis (EDA)
+What are the top factors correlated with churn?
+How do service usage patterns differ between churned and retained customers?
+Is churn seasonal? Does it vary by time period?
+What's the relationship between tenure and churn?
+Do customers who use more services have lower churn?
+Is there a pattern with billing/payment behavior?
+
+Predictive Modeling
+Can you build a model to predict which customers are likely to churn?
+What's the accuracy, precision, recall, and ROI of your model?
+Which features are most important for predictions?
+How does your model perform on different customer segments?
+What's the cost-benefit tradeoff of your model's predictions?
+
+Business Impact
+If you identify high-risk customers, what's the cost of retaining vs. losing them?
+Which intervention strategies would be most effective?
+How could you rank customers by churn risk for targeted retention campaigns?
